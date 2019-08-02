@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Windows10] Elasticsearch7 설치
+title: Windows10 Elasticsearch7 설치
 date: 2019. 08. 02
 ---
 
@@ -31,17 +31,17 @@ Windows10에 Elasticsearch7 설치
 #### # Elasticsearch 실행 및 서비스 등록
 * Window cmd 실행
 
-* ** cd ..\elasticsearch-7.3.0\bin ** 폴더로 이동
+* **cd ..\elasticsearch-7.3.0\bin** 폴더로 이동
 
-* ** elasticsearch.bat ** 입력 후 실행 아래 메세지 출력시 실행 완료
+* **elasticsearch.bat** 입력 후 실행 아래 메세지 출력시 실행 완료
 
  ![](http://baboototo.github.io/images/blogs/elasticsearch/elasticsearch-setting-03.png)
 
-* ** curl localhost:9200 ** cmd 입력 후 실행
+* **curl localhost:9200** cmd 입력 후 실행
 
  ![](http://baboototo.github.io/images/blogs/elasticsearch/elasticsearch-setting-04.png)
 
-* ** elasticsearch-service.bat install ** cmd 입력 후 실행 아래 메세지 출력시 서비스 등록 완료
+* **elasticsearch-service.bat install** cmd 입력 후 실행 아래 메세지 출력시 서비스 등록 완료
 
  ![](http://baboototo.github.io/images/blogs/elasticsearch/elasticsearch-setting-05.png)
 
@@ -54,9 +54,9 @@ Windows10에 Elasticsearch7 설치
 - - -
 
 #### # Elasticsearch elasticsearch.bat 실행 오류 시
-> ** elasticsearch-7.3.0\bin ** 폴더로 이동
-> ** elasticsearch.bat ** 파일 편집 실행(메모장, Atom, EditPlus 등..)
-> ** SET "JAVA_HOME=C:\Program Files\Java\jdk1.8.0_191" ** 내용 입력 후 저장(자바경로 설정)
-> ** elasticsearch.bat ** Window cmd 다시 실행
+> **elasticsearch-7.3.0\bin** 폴더로 이동
+> **elasticsearch.bat** 파일 편집 실행(메모장, Atom, EditPlus 등..)
+> **SET "JAVA_HOME=C:\Program Files\Java\jdk1.8.0_191"** 내용 입력 후 저장(자바경로 설정)
+> **elasticsearch.bat** Window cmd 다시 실행
 
 
