@@ -4,7 +4,7 @@ title: Windows10 Elasticsearch7 설치
 date: 2019. 08. 02
 ---
 
-Windows10에 Elasticsearch7 설치
+#### # Windows10에 Elasticsearch7 설치
 * Java8 이상 버전 설치 (추후 Java11 버전 설치 권장)
 * Elasticsearch 다운로드
 * Elasticsearch 설치
