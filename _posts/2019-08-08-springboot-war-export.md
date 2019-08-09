@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Spring Boot / Gradle 기반] 서비스 배포 War 만들기 (IntelliJ IDE 사용)
+title: Spring Boot / Gradle 기반 서비스 배포 War 만들기 (IntelliJ IDE 사용)
 date: 2019. 08. 08
 ---
 
