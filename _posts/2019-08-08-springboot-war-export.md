@@ -62,7 +62,7 @@ Spring Boot / Gradle 기반 서비스를 외부 Tomcat 배포 및 서비스 등�
 
 #### # Gradle Build war 파일 생성
  * Gradle > Tasks > build > bootWar 실행
-![](http://baboototo.github.io/images/blogs/springboot/springboot-war-export-00.png)
+![](http://baboototo.github.io/images/blogs/springboot/springboot-war-export.png)
 
 - - -
 
